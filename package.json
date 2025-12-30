@@ -1,12 +1,12 @@
 {
-  "name": "@jackyzha0/quartz",
+  "name": "ritiks_digital_garden",
   "description": "🌱 publish your digital garden and notes as a website",
   "private": true,
   "version": "4.5.2",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "ritik",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "garden.ritikbatra.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/jackyzha0/quartz.git"
