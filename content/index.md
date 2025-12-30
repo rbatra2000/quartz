@@ -7,6 +7,7 @@ title: ritik's digital garden
 
 > *"What makes a garden is interesting. It's personal. Things are organized and orderly, but with a touch of chaos around the edges."* –[Joel Hooks](https://joelhooks.com/digital-garden/)
 
+The *SUBMIT* button is all too familiar. 
 
 
 <!-- These past few years have been a lot of reflection and with that reflection, I have wanted to document my journey (some fleeting, some unfinished, some incoherent). I stumbled upon the wonderful platform of Obsidian  -->
