@@ -1,5 +1,5 @@
 ---
-title: vignette on craft & computing
+title: phd vignette
 ---
 
 
