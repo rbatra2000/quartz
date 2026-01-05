@@ -1,5 +1,5 @@
 ---
-title: digital garden home
+title: ritik's digital garden
 ---
 
 ![san jose rose garden](assets/garden.JPG)
