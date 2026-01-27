@@ -13,8 +13,10 @@ I wanted to start with one domain: how do we #visualize the trips from the year.
 
 I first created a [Jupyter notebook](https://github.com/rbatra2000/trips_visualizer/blob/main/experiments/visual.ipynb) to experiment around a little bit with creating a domain-specific language (DSL). 
 
+The current website is here  https://trips-visualizer-8hqg.vercel.app/
 
-current website: https://trips-visualizer-8hqg.vercel.app/
+Hope you find this interesting :)
+
 <div>
   <iframe id="travelDSL"
       title="travelDSL"
