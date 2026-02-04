@@ -1,6 +1,6 @@
 ---
-title: phd vignette
-tags: ["in-progress"]
+title: 2026.0 phd vignette
+date: 01/05/2026
 ---
 
 

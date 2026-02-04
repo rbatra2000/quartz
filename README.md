@@ -9,6 +9,10 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
+## Notes to Self
+
+Run `npx quartz build --serve` for testing
+
 ## Sponsors
 
 <p align="center">

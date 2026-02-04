@@ -1,0 +1,61 @@
+.gallery-container {
+  display: flex;
+  gap: 1rem;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  padding: 1rem 0 1.5rem 0;
+  margin: 1rem 0;
+  scroll-snap-type: x mandatory;
+
+  // Always show scrollbar
+  scrollbar-width: auto;
+  scrollbar-color: var(--gray) var(--lightgray);
+
+  // Webkit scrollbar styling - always visible
+  &::-webkit-scrollbar {
+    height: 12px;
+    display: block;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: var(--lightgray);
+    border-radius: 6px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: var(--gray);
+    border-radius: 6px;
+    border: 2px solid var(--lightgray);
+
+    &:hover {
+      background-color: var(--darkgray);
+    }
+  }
+
+  .gallery-item {
+    flex: 0 0 auto;
+    scroll-snap-align: start;
+    max-height: 400px;
+
+    img {
+      height: 100%;
+      max-height: 400px;
+      width: auto;
+      object-fit: contain;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+      &:hover {
+        transform: scale(1.02);
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+      }
+    }
+  }
+
+  // Hide paragraph wrappers that might be inside
+  p {
+    margin: 0;
+    display: contents;
+  }
+}

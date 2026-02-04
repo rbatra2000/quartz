@@ -19,7 +19,8 @@ Current motifs I'm thinking about and want to write more about:
 - #craft
 - #computing
 - #documentation
-- (some flavor and perhaps hot takes of) #generativeAI
+- #abstractions
+- (some flavor and perhaps hot takes of) #AI
 
 ### text graveyard
 *Throughout this digital garden, I will try experimenting with various ways of capturing and sharing the process behind each article. Below, I added any phrases/sentences that I wrote and then commented out in Markdown (but still referenced for writing what is above).*
