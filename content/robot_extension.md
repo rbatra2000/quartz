@@ -3,18 +3,18 @@ title: 2026.3 robots as extension, not replacement
 date: 02/08/2026
 ---
 
-A few weeks before I flew out to Copenhagen, I had caught up with a
+A few weeks before I flew out to #copenhagen, I had caught up with a
 friend doing research in computer vision (not HCI/fabrication). After
 describing my research interests in materials-driven fabrication and
 sustainability, he was quiet for a second and then asked me, *“Isn’t
 manufacturing fully automated now by robots and such? Why do we need the
 humans in those kinds of workflows?”* I had no experience with robotic
 manufacturing to be able to respond confidently – until I started at
-CITA.
+#cita.
 
 At CITA, I was put on one of the existing projects, *ReShelter*. One of
 the tasks assigned to me was to support one of the other researchers
-(pseudonym, JH) in the robotic fabrication of a forest shelter using reclaimed
+(pseudonym, JH) in the robotic fabrication of a forest shelter using #reclaimed
 wood beams from multiple sources such as an earlier CITA research
 project (*RawLam*).
 
@@ -42,7 +42,7 @@ shocked me more is how JH told me that we do not have any extra pieces
 – every timber beam was specifically designated for a part of the final
 structure without any extras.
 
-Of course, the piles of timber themselves were also challenging to sort
+Of course, the piles of #timber themselves were also challenging to sort
 through as well. Every timber had markings with a number (sometimes on
 both ends, sometimes only on one) and JH and I would spend time taking
 pieces off the pile to retrieve a few beams and then put them back to
@@ -55,8 +55,7 @@ operations.
 
 <img
 src="assets/robot/image1.jpeg"
-style="width:1.43542in;height:1.91389in"
-alt="A machine in a factory assets/robot/." />
+style="width:1.43542in;height:1.91389in"/>
 
 JH had taught me the basics of using the robotic mill. After a few mornings
 of working with JH, we got into a groove; JH would set up the CAM
@@ -183,12 +182,12 @@ the following steps (apologies for the crude drawings):
     assembly.
 
 While robots have immense capabilities to increase the precision of
-fabrication, they also have high risk. What if the fixturing isn’t done
+fabrication, they also have high risk. What if the #fixturing isn’t done
 well and the wood shakes? What if the robot arm turns in a weird way and
 hits the piece (potentially damaging the robot)? What if a robot part
 breaks (and you’re pressed for time)? While the robot seems
 indestructible, I realized how fragile it really is. Every piece of wood
 took about 2-3 hours, contingent on everything going smoothly. I’m
 curious to observe more about this tension and negotiation between
-computational tools and the human (not operator, but collaborator) and
-how they both come to reach a “steady state” of fabrication.
+computational tools ( #computing ) and the human (not operator, but collaborator) and
+how they both come to reach a “steady state” of #fabrication.
