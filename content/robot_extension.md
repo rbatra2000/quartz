@@ -165,6 +165,7 @@ the following steps (apologies for the crude drawings):
     speed.
 
 7.  *Trace*
+
     <img
     src="assets/robot/image8.jpeg"
     style="width:1.91111in;height:1.29514in"/>
