@@ -1,11 +1,12 @@
 ---
 title: 2026.4 fabricated efficiency
+date: 02/10/2026
 ---
 
 # _Fabricated Efficiency_: Reflections on Fabrication Research in the Real World
 **Originally submitted to CHI'26 workshop, _From Papers to the Real World: Making Fabrication Research Matter_[^1]**
 
-In this position paper, I argue that fabrication research's dissemination problem is fundamentally an efficiency problem: the community has drawn on computing's normative efficiency metrics while ignoring the values embedded in real-world fabrication practices. Drawing on my own research with craftspeople, I reflect on three engagement strategies (Discussing with, Testing with, Learning with) that reveal how makers (not researchers) evaluate tools through relational, pedagogical, and embodied lenses rather than computational optimization, suggesting alternative pathways for fabrication research. At the CHI'26 workshop, From Papers to the Real World, I hope to discuss these tensions with fellow researchers and how fabrication research can prioritize real-world impacts.
+In this position paper, I argue that #fabrication research's dissemination problem is fundamentally an #efficiency problem: the community has drawn on #computing's normative efficiency metrics while ignoring the values embedded in real-world fabrication practices. Drawing on my own research with #craftspeople, I reflect on three engagement strategies (Discussing with, Testing with, Learning with) that reveal how makers (not researchers) evaluate tools through relational, pedagogical, and embodied lenses rather than computational optimization, suggesting alternative pathways for fabrication research. At the CHI'26 workshop, From Papers to the Real World, I hope to discuss these tensions with fellow researchers and how fabrication research can prioritize real-world impacts.
 
 ## 1 Introduction
 

@@ -1,6 +1,7 @@
 ---
 title: 2026.3 robots as extension, not replacement
 date: 02/08/2026
+tags: cph_memos
 ---
 
 A few weeks before I flew out to #copenhagen, I had caught up with a
