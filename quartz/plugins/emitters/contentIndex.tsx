@@ -113,7 +113,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             richContent: opts?.rssFullHtml
               ? escapeHTML(toHtml(tree as Root, { allowDangerousHtml: true }))
               : undefined,
-            date: date,
+            date: file.data.dates?.created ?? date,
             description: file.data.description ?? "",
           })
         }
